@@ -1,0 +1,4 @@
+playsoft
+========
+
+juego de razonamiento
